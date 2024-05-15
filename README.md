@@ -1,11 +1,10 @@
 ### Olá, seja bem vindo a meu pequeno mundinho! 🌎😁 ###
 <br>
 📜 | About me<br>
-Me chamo Pablio Richardy e desde pequeno me interesso bastante por tecnologia, por isso agora decidi seguir como minha própria carreira. E foi uma das melhores decisões, pois gosto demais de aprender novos conhecimentos, lidar com desenvolvimento de projetos, e mostrar um pouco da minha lógica as pessoas.
+Me chamo Pablio Richardy e desde pequeno me interesso bastante por tecnologia, por isso agora decidi seguir como minha própria carreira. E foi uma das melhores decisões, pois gosto demais de aprender novos conhecimentos, lidar com desenvolvimento de projetos, e mostrar um pouco da minha lógica as pessoas. Atualmente estou aprendendo o que der vontade em busca do que me interessar mais nesse processo :)
 <br><br>
 <strong>🖧 | Social Networks</strong>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablio_richardy/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablio-richardy/)
 
 <strong>GitHub Stats</strong>
